@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bcf1c6f.chunk.css",
-    "main.js": "/static/js/main.32cffd69.chunk.js",
-    "main.js.map": "/static/js/main.32cffd69.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5bd1ae4b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5bd1ae4b.js.map",
-    "static/css/2.70e35f80.chunk.css": "/static/css/2.70e35f80.chunk.css",
-    "static/js/2.e5aed542.chunk.js": "/static/js/2.e5aed542.chunk.js",
-    "static/js/2.e5aed542.chunk.js.map": "/static/js/2.e5aed542.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.da0a7ceeec00c7a34fbbfcf2494cdb54.js": "/precache-manifest.da0a7ceeec00c7a34fbbfcf2494cdb54.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.70e35f80.chunk.css.map": "/static/css/2.70e35f80.chunk.css.map",
-    "static/css/main.7bcf1c6f.chunk.css.map": "/static/css/main.7bcf1c6f.chunk.css.map",
-    "static/js/2.e5aed542.chunk.js.LICENSE.txt": "/static/js/2.e5aed542.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/static/media/background.2f2fe430.jpg",
-    "static/media/desventajas.png": "/static/media/desventajas.69125349.png",
-    "static/media/ventajass.jpg": "/static/media/ventajass.b4e1c9d0.jpg"
+    "main.css": "/Pruebas/static/css/main.5f57bc26.chunk.css",
+    "main.js": "/Pruebas/static/js/main.8b21d537.chunk.js",
+    "main.js.map": "/Pruebas/static/js/main.8b21d537.chunk.js.map",
+    "runtime-main.js": "/Pruebas/static/js/runtime-main.dbfc5968.js",
+    "runtime-main.js.map": "/Pruebas/static/js/runtime-main.dbfc5968.js.map",
+    "static/css/2.70e35f80.chunk.css": "/Pruebas/static/css/2.70e35f80.chunk.css",
+    "static/js/2.e5aed542.chunk.js": "/Pruebas/static/js/2.e5aed542.chunk.js",
+    "static/js/2.e5aed542.chunk.js.map": "/Pruebas/static/js/2.e5aed542.chunk.js.map",
+    "index.html": "/Pruebas/index.html",
+    "precache-manifest.9b3219e6a3b9a19d3a05cb33ec257a30.js": "/Pruebas/precache-manifest.9b3219e6a3b9a19d3a05cb33ec257a30.js",
+    "service-worker.js": "/Pruebas/service-worker.js",
+    "static/css/2.70e35f80.chunk.css.map": "/Pruebas/static/css/2.70e35f80.chunk.css.map",
+    "static/css/main.5f57bc26.chunk.css.map": "/Pruebas/static/css/main.5f57bc26.chunk.css.map",
+    "static/js/2.e5aed542.chunk.js.LICENSE.txt": "/Pruebas/static/js/2.e5aed542.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/Pruebas/static/media/background.2f2fe430.jpg",
+    "static/media/desventajas.png": "/Pruebas/static/media/desventajas.69125349.png",
+    "static/media/ventajass.jpg": "/Pruebas/static/media/ventajass.b4e1c9d0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bd1ae4b.js",
+    "static/js/runtime-main.dbfc5968.js",
     "static/css/2.70e35f80.chunk.css",
     "static/js/2.e5aed542.chunk.js",
-    "static/css/main.7bcf1c6f.chunk.css",
-    "static/js/main.32cffd69.chunk.js"
+    "static/css/main.5f57bc26.chunk.css",
+    "static/js/main.8b21d537.chunk.js"
   ]
 }
